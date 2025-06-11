@@ -4,8 +4,8 @@
 
 > [!IMPORTANT]
 > Keeping customers' data **flowing** & **safe** 🔐 every day.
-
-💡 Reasoning from first principles: **making reality what once seemed impossible**. ✨
+> 
+> 💡 Reasoning from first principles: **making reality what once seemed impossible**. ✨
 
 <div align="center"><img src="assets/cool-hr.gif" width="100%"></div>
 
@@ -29,12 +29,6 @@ and more with *mostly* right OS for the job
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 </div>
-
-<div align="center"><img src="assets/cool-hr.gif" width="100%"></div>
-
-> Am I testing the code or is the code testing me?
-
-\- somebody (once or twice, somewhere)
 
 <div align="center">
 
@@ -68,9 +62,15 @@ and many more...
 
 <div align="center"><img src="assets/cool-hr.gif" width="100%"></div>
 
+> Am I testing the code or is the code testing me?
+
+\- somebody (once or twice, somewhere)
+
+</div>
+
 Surely "[No code](https://github.com/kelseyhightower/nocode) = no bugs 🐞", right?
 
-Favorite HTTP code [418](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/418)
+Favorite HTTP code [🫖](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/418)
 
 A [solution](https://en.wikipedia.org/wiki/IP_over_Avian_Carriers) for another eventual [🌞😠⚡🌍](https://en.wikipedia.org/wiki/Carrington_Event)
 
